@@ -8,7 +8,9 @@
     <title>IVIAS :: 웹</title>
 </head>
 <body>
-    <h1 class="title">Challenges - Web</h1>
+    <div class="title">
+        <span class="title_text"><strong>Challenge - Web</strong></span>
+    </div>
 
     <div class="m_sc">
         <div class="chall_wapper">
