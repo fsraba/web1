@@ -1,0 +1,29 @@
+.m_sc{
+    border: 2px solid #9999;
+    background-color: #9999;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+}
+
+.qbutton {
+  text-align: center;
+  font-size: 14px;
+  font-family: 'Arial', sans-serif;
+  font-weight: 700;
+  height: 36px;
+  padding: 0 8px;
+}
+
+.qbutton-submit {
+  border: 0px;
+  color: #fff;
+  text-shadow: 0 1px rgba(0,0,0,0.1); 
+  background-color: #4d90fe;
+}
+
+.qbutton-submit:hover {
+  border: 0px;
+  text-shadow: 0 1px rgba(0,0,0,0.3);
+  background-color: #357ae8;
+}
