@@ -1,29 +1,53 @@
+@font-face {
+  font-family: Raleway;
+  src: url('../Font/Raleway-Regular.otf');
+}
+
+.title{
+  text-align: center;
+}
+
 .m_sc{
-    border: 2px solid #9999;
-    background-color: #9999;
-    margin-left: 20%;
-    margin-right: 20%;
-    text-align: center;
+  height: 900px;
+  border: 1px solid #ABB2B9;
+  margin-top: 20px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.chall_wapper{
+  width: 20%;
+  height: 110px;
+  float: left;
+  margin-top: 1%;
 }
 
 .qbutton {
+  width: 90%;
+  height: 90%;
+  cursor: pointer;
+  background-color: white;
+  border-radius: 5px;
   text-align: center;
-  font-size: 14px;
-  font-family: 'Arial', sans-serif;
-  font-weight: 700;
-  height: 36px;
-  padding: 0 8px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border: 1px solid #ABB2B9;
+  font-size: 45px;
 }
 
 .qbutton-submit {
   border: 0px;
   color: #fff;
-  text-shadow: 0 1px rgba(0,0,0,0.1); 
-  background-color: #4d90fe;
+  text-shadow: 0 1px rgba(0,0,0,0.1);
 }
 
 .qbutton-submit:hover {
   border: 0px;
   text-shadow: 0 1px rgba(0,0,0,0.3);
   background-color: #357ae8;
+}
+
+.q_text{
+  color: black;
 }
