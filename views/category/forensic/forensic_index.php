@@ -5,21 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel='stylesheet' href='../../../public/stylesheets/webcategory.css'>
-    <title>IVIAS :: 웹</title>
+    <title>IVIAS :: 포렌식</title>
 </head>
 <body>
     <div class="title">
-        <span class="title_text"><strong>Challenge - Web</strong></span>
+        <span class="title_text"><strong>Challenge - Forensic</strong></span>
     </div>
 
     <div class="m_sc">
         <div class="chall_wapper">
-            <button class="qbutton qbutton-submit" onclick="location.href='./web_question1/web_question1.php'">
+            <button class="qbutton qbutton-submit" onclick="location.href='#'">
                 <span class="q_text"><strong>1</strong></span>
             </button>
         </div>
         <div class="chall_wapper">
-            <button class="qbutton qbutton-submit" onclick="location.href='./web_question2/web_question2.php'">
+            <button class="qbutton qbutton-submit" onclick="location.href='#'">
                 <span class="q_text"><strong>2</strong></span>
             </button>
         </div>
